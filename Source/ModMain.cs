@@ -22,7 +22,7 @@ namespace TrafficReport
     
         public string Name
         {
-            get { return "Traffic Report Tool 2.0, Updated"; }
+            get { return "Traffic Report Tool 2.0"; }
         }
         public string Description
         {
